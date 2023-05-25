@@ -72,7 +72,7 @@ In addition to the lessons, you will find additional resources to support your l
 
 ## Additional Support
 
-If you have any questions or need assistance while taking this course, feel free to reach out to the course instructor or post your question on the course forum.
+If you have any questions or need assistance while taking this course, feel free to reach out to the course instructor.
 
 We hope you find this Basic Python Course enjoyable and valuable for your programming journey. Happy coding!
 ## Course Resources
